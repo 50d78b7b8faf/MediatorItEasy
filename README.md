@@ -16,4 +16,4 @@ Explorar la creación de un Mediador casero sin depender de bibliotecas externas
 
 ## 🧠 Motivación
 
-Jimmy Bogard anunció recientemente que [MediatR será de pago en versiones futuras](https://github.com/jbogard/MediatR/discussions/580). Estoy completamente de acuerdo con la decisión —el software libre no se mantiene solo— pero decidí aprovechar el momento para aprender más sobre el patrón y los límites de la optimización.
+Jimmy Bogard anunció recientemente que MediatR será de pago en versiones futuras. Estoy completamente de acuerdo con la decisión —el software libre no se mantiene solo— pero decidí aprovechar el momento para aprender más sobre el patrón y los límites de la optimización.
